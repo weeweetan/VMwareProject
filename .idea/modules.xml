@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eam/eam.iml" filepath="$PROJECT_DIR$/eam/eam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sms/sms.iml" filepath="$PROJECT_DIR$/sms/sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssoclient/ssoclient.iml" filepath="$PROJECT_DIR$/ssoclient/ssoclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vsphere-ws/vsphere-ws.iml" filepath="$PROJECT_DIR$/vsphere-ws/vsphere-ws.iml" />
+    </modules>
+  </component>
+</project>
